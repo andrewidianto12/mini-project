@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Type Result</title>
+  </head>
+  <body>
+    <h1>Type Information</h1>
+    <h2>{{ type_info['name'] }}</h2>
+    <p>Double Damage To:</p>
+    <ul>
+      {% for double_damage_to in
+      type_info['damage_relations']['double_damage_to'] %}
+      <li>{{ double_damage_to['name'] }}</li>
+      {% endfor %}
+    </ul>
+    <p>Half Damage To:</p>
+    <ul>
+      {% for half_damage_to in type_info['damage_relations']['half_damage_to']
+      %}
+      <li>{{ half_damage_to['name'] }}</li>
+      {% endfor %}
+    </ul>
+    <p>No Damage To:</p>
+    <ul>
+      {% for no_damage_to in type_info['damage_relations']['no_damage_to'] %}
+      <li>{{ no_damage_to['name'] }}</li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>

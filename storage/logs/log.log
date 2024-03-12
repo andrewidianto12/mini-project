@@ -1,0 +1,113 @@
+[2024-03-10 14:10:43,452] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.21:5000
+[2024-03-10 14:10:43,453] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-10 14:10:47,264] INFO in _internal: 127.0.0.1 - - [10/Mar/2024 14:10:47] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-10 14:10:47,396] INFO in _internal: 127.0.0.1 - - [10/Mar/2024 14:10:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-10 14:10:50,766] INFO in _internal: 127.0.0.1 - - [10/Mar/2024 14:10:50] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-10 14:10:51,459] INFO in _internal: 127.0.0.1 - - [10/Mar/2024 14:10:51] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-10 14:10:51,646] INFO in _internal: 127.0.0.1 - - [10/Mar/2024 14:10:51] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-10 14:10:51,817] INFO in _internal: 127.0.0.1 - - [10/Mar/2024 14:10:51] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-10 14:13:48,927] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.21:5000
+[2024-03-10 14:13:48,928] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-10 14:13:53,711] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:13:53] "GET /pokemon/poke HTTP/1.1" 200 -
+[2024-03-10 14:14:22,698] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:14:22] "GET /pokemon/poke HTTP/1.1" 200 -
+[2024-03-10 14:15:49,159] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:15:49] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-10 14:15:49,306] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:15:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-10 14:15:56,083] INFO in _internal: 127.0.0.1 - - [10/Mar/2024 14:15:56] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-10 14:15:57,855] INFO in _internal: 127.0.0.1 - - [10/Mar/2024 14:15:57] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-10 14:20:56,783] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.21:8000
+[2024-03-10 14:20:56,784] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-10 14:20:56,787] INFO in _internal:  * Restarting with stat
+[2024-03-10 14:20:57,594] WARNING in _internal:  * Debugger is active!
+[2024-03-10 14:20:57,599] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-10 14:21:00,727] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:21:00] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-10 14:21:00,838] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:21:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-10 14:25:14,540] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:25:14] "GET /pokemon/poke/charizard/review HTTP/1.1" 200 -
+[2024-03-10 14:25:47,038] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:25:47] "GET /pokemon/poke/charizard/review HTTP/1.1" 200 -
+[2024-03-10 14:26:06,408] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:26:06] "GET /pokemon/poke/charizard/review HTTP/1.1" 200 -
+[2024-03-10 14:27:21,656] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:27:21] "[33mGET /pokemon/poke/charizard/poke_review HTTP/1.1[0m" 404 -
+[2024-03-10 14:27:46,605] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:27:46] "GET /pokemon/poke/charizard/review HTTP/1.1" 200 -
+[2024-03-10 14:28:02,055] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:28:02] "[33mPOST /pokemon/poke/charizard/poke_review HTTP/1.1[0m" 404 -
+[2024-03-10 14:28:07,817] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:28:07] "POST /pokemon/poke/charizard/review HTTP/1.1" 200 -
+[2024-03-10 14:28:48,381] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:28:48] "GET /pokemon/poke/charizard/review HTTP/1.1" 200 -
+[2024-03-10 14:31:13,069] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:31:13] "GET /pokemon/poke/charizard/review HTTP/1.1" 200 -
+[2024-03-10 14:31:21,944] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.21:8000
+[2024-03-10 14:31:21,945] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-10 14:31:21,948] INFO in _internal:  * Restarting with stat
+[2024-03-10 14:31:22,740] WARNING in _internal:  * Debugger is active!
+[2024-03-10 14:31:22,745] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-10 14:31:31,839] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:31:31] "POST /pokemon/poke/charizard/review HTTP/1.1" 200 -
+[2024-03-10 14:31:49,188] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:31:49] "POST /pokemon/poke/pikachu/review HTTP/1.1" 200 -
+[2024-03-10 14:37:19,329] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:37:19] "POST /pokemon/poke/pikachu/review HTTP/1.1" 200 -
+[2024-03-10 14:38:02,368] INFO in _internal: 127.0.0.1 - - [10/Mar/2024 14:38:02] "POST /pokemon/poke/pikachu/review HTTP/1.1" 200 -
+[2024-03-10 14:39:07,420] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.21:8000
+[2024-03-10 14:39:07,421] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-10 14:39:07,423] INFO in _internal:  * Restarting with stat
+[2024-03-10 14:39:08,235] WARNING in _internal:  * Debugger is active!
+[2024-03-10 14:39:08,239] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-10 14:39:29,460] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:39:29] "POST /pokemon/poke/pikachu/review HTTP/1.1" 200 -
+[2024-03-10 14:42:21,593] ERROR in poke_detail: Traceback (most recent call last):
+  File "D:\Sys-Eng\02. SYSTEM ENGINEER\flask-template-venv-master\.venv\Lib\site-packages\requests\models.py", line 971, in json
+    return complexjson.loads(self.text, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Sys-Eng\02. SYSTEM ENGINEER\flask-template-venv-master\app\apis\pokemon\resources\poke\poke_detail.py", line 24, in get
+    return r.json()
+           ^^^^^^^^
+  File "D:\Sys-Eng\02. SYSTEM ENGINEER\flask-template-venv-master\.venv\Lib\site-packages\requests\models.py", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+[2024-03-10 14:42:21,598] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:42:21] "[35m[1mGET /pokemon/poke/review HTTP/1.1[0m" 500 -
+[2024-03-10 14:42:33,821] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:42:33] "GET /pokemon/poke HTTP/1.1" 200 -
+[2024-03-10 14:42:37,341] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:42:37] "[33mGET /pokemon/poke/ HTTP/1.1[0m" 404 -
+[2024-03-10 14:42:44,265] INFO in _internal: 192.168.100.21 - - [10/Mar/2024 14:42:44] "GET /pokemon/poke/pikachu/review HTTP/1.1" 200 -
+[2024-03-11 23:10:12,632] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.21:8000
+[2024-03-11 23:10:12,634] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-11 23:10:12,642] INFO in _internal:  * Restarting with stat
+[2024-03-11 23:10:13,472] WARNING in _internal:  * Debugger is active!
+[2024-03-11 23:10:13,483] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-11 23:10:16,432] INFO in _internal: 192.168.100.21 - - [11/Mar/2024 23:10:16] "GET /pokemon/poke/pikachu/review HTTP/1.1" 200 -
+[2024-03-12 21:39:26,013] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.50.4:8000
+[2024-03-12 21:39:26,014] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-12 21:39:26,028] INFO in _internal:  * Restarting with stat
+[2024-03-12 21:39:26,932] WARNING in _internal:  * Debugger is active!
+[2024-03-12 21:39:26,939] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-12 21:48:23,176] INFO in _internal: 127.0.0.1 - - [12/Mar/2024 21:48:23] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-12 21:48:23,293] INFO in _internal: 127.0.0.1 - - [12/Mar/2024 21:48:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-12 21:49:21,588] INFO in _internal: 192.168.50.4 - - [12/Mar/2024 21:49:21] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-12 21:49:21,705] INFO in _internal: 192.168.50.4 - - [12/Mar/2024 21:49:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-12 21:49:34,673] INFO in _internal: 192.168.50.4 - - [12/Mar/2024 21:49:34] "POST /pokemon/poke/pikachu/review HTTP/1.1" 200 -
+[2024-03-12 21:50:07,285] INFO in _internal: 192.168.50.4 - - [12/Mar/2024 21:50:07] "GET /pokemon/poke/pikachu/review HTTP/1.1" 200 -
