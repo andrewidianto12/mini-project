@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Flask App</title>
+    <title>Pokedex</title>
     <link
       rel="stylesheet"
       href="{{ url_for('static', filename='styles.css') }}"
@@ -19,15 +19,10 @@
       </select>
       <button type="submit">Search</button>
     </form>
-    <h1></h1>
-    <!-- <form action="/list_types" method="GET">
-      <button type="submit">List Types</button>
-    </form> -->
-    <h1>Pokemon Types</h1>
-    <ul>
-      {% for type in pokemon_types %}
-      <li>{{ type }}</li>
-      {% endfor %}
-    </ul>
+    <h1>-----------------------------</h1>
+    <h2>Pokemon Types</h2>
+    {% for type in pokemon_types %}
+    <button name="type" value="{{ type }}">{{ type|capitalize }}</button>
+    {% endfor %}
   </body>
 </html>

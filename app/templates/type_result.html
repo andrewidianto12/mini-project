@@ -28,5 +28,14 @@
       <li>{{ no_damage_to['name'] }}</li>
       {% endfor %}
     </ul>
+
+    <h1>List Pokenmon with {{ type_info['name'] }} type</h1>
+
+      <ul id="pokemon-list">
+        {% for pokemon in type_info['pokemon'] %}
+        <li>{{ pokemon['pokemon']['name'] }}</li>
+        {% endfor %}
+      </ul>
+    </ul>
   </body>
 </html>

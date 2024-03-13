@@ -1599,3 +1599,1246 @@ requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 [2024-03-13 13:13:49,653] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:13:49] "POST /search HTTP/1.1" 200 -
 [2024-03-13 13:13:55,599] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:13:55] "POST /search HTTP/1.1" 200 -
 [2024-03-13 13:14:39,930] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:14:39] "POST /search HTTP/1.1" 200 -
+[2024-03-13 13:23:04,251] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:23:04] "POST /search HTTP/1.1" 200 -
+[2024-03-13 13:23:10,157] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:23:10] "POST /search HTTP/1.1" 200 -
+[2024-03-13 13:23:50,246] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:23:50] "POST /search HTTP/1.1" 200 -
+[2024-03-13 13:24:30,423] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:24:30] "POST /search HTTP/1.1" 200 -
+[2024-03-13 13:25:16,721] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 13:25:16,904] INFO in _internal:  * Restarting with stat
+[2024-03-13 13:25:18,235] WARNING in _internal:  * Debugger is active!
+[2024-03-13 13:25:18,241] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 13:25:22,412] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:25:22] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:25:22,492] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:25:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:25:22,499] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:25:22] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:25:34,694] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 13:25:34,861] INFO in _internal:  * Restarting with stat
+[2024-03-13 13:25:35,780] WARNING in _internal:  * Debugger is active!
+[2024-03-13 13:25:35,787] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 13:26:00,469] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:26:00] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:26:00,535] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:26:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:26:00,544] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:26:00] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:26:59,771] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 13:26:59,940] INFO in _internal:  * Restarting with stat
+[2024-03-13 13:27:00,941] WARNING in _internal:  * Debugger is active!
+[2024-03-13 13:27:00,949] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 13:27:02,502] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:27:02] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:27:02,564] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:27:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:27:02,572] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:27:02] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:27:14,976] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:27:14] "POST /search HTTP/1.1" 200 -
+[2024-03-13 13:40:50,037] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:40:50] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:40:50,068] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:40:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:40:50,078] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:40:50] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:41:50,559] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:41:50] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:41:50,580] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:41:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:41:50,590] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:41:50] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:41:52,427] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:41:52] "POST /search HTTP/1.1" 200 -
+[2024-03-13 13:44:28,371] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 13:44:28,514] INFO in _internal:  * Restarting with stat
+[2024-03-13 13:44:29,365] WARNING in _internal:  * Debugger is active!
+[2024-03-13 13:44:29,373] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 13:46:44,600] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 13:46:44,726] INFO in _internal:  * Restarting with stat
+[2024-03-13 13:46:45,743] WARNING in _internal:  * Debugger is active!
+[2024-03-13 13:46:45,755] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 13:47:20,561] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:47:20] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:47:20,622] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:47:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:47:20,630] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:47:20] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:48:03,139] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:48:03] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:48:03,157] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:48:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:48:03,165] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:48:03] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:48:31,083] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:48:31] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:48:31,103] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:48:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:48:31,111] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:48:31] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:48:32,030] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:48:32] "[33mGET /list_types HTTP/1.1[0m" 404 -
+[2024-03-13 13:48:59,622] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:48:59] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:48:59,638] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:48:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:48:59,644] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:48:59] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:49:34,785] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 13:49:34,901] INFO in _internal:  * Restarting with stat
+[2024-03-13 13:49:35,683] WARNING in _internal:  * Debugger is active!
+[2024-03-13 13:49:35,693] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 13:49:51,111] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 13:49:51,267] INFO in _internal:  * Restarting with stat
+[2024-03-13 13:49:52,128] WARNING in _internal:  * Debugger is active!
+[2024-03-13 13:49:52,137] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 13:49:53,047] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:49:53] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:49:53,109] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:49:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:49:53,116] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:49:53] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:50:17,218] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:50:17] "POST /search HTTP/1.1" 200 -
+[2024-03-13 13:52:01,510] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:52:01] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:52:01,529] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:52:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:52:01,537] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:52:01] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:52:32,785] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:52:32] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:52:32,800] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:52:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:52:32,808] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:52:32] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:52:42,623] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:52:42] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:52:42,641] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:52:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:52:42,648] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:52:42] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:53:22,909] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:53:22] "POST /search HTTP/1.1" 200 -
+[2024-03-13 13:53:25,464] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:53:25] "[33mGET /method=?pokemon_name= HTTP/1.1[0m" 404 -
+[2024-03-13 13:56:11,757] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:56:11] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:56:11,773] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:56:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:56:11,782] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:56:11] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:56:24,777] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:56:24] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:56:24,795] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:56:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:56:24,802] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:56:24] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:57:05,424] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:57:05] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:57:05,441] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:57:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:57:05,449] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:57:05] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:57:06,040] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:57:06] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:57:06,059] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:57:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:57:06,068] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:57:06] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:57:06,242] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:57:06] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:57:06,257] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:57:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:57:06,266] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:57:06] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:57:06,413] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:57:06] "GET / HTTP/1.1" 200 -
+[2024-03-13 13:57:06,431] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:57:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 13:57:06,439] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 13:57:06] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 13:59:06,493] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 13:59:06,622] INFO in _internal:  * Restarting with stat
+[2024-03-13 14:00:05,404] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.50.4:8000
+[2024-03-13 14:00:05,405] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 14:00:05,407] INFO in _internal:  * Restarting with stat
+[2024-03-13 14:00:06,272] WARNING in _internal:  * Debugger is active!
+[2024-03-13 14:00:06,280] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 14:00:07,026] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:00:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-03-13 14:00:07,135] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:00:07] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 14:00:07,135] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:00:07] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-03-13 14:00:07,159] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:00:07] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-03-13 14:00:24,889] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:00:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-03-13 14:00:24,908] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:00:24] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 14:00:24,909] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:00:24] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 14:00:24,923] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:00:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 14:01:59,128] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:01:59] "GET / HTTP/1.1" 200 -
+[2024-03-13 14:01:59,155] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:01:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 14:01:59,162] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:01:59] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 14:02:01,842] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:02:01] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 14:02:01,876] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:02:01] "GET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-03-13 14:02:01,877] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:02:01] "GET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2024-03-13 14:02:01,895] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:02:01] "GET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-03-13 14:02:08,808] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:02:08] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 14:02:08,831] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:02:08] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 14:02:08,832] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:02:08] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 14:02:08,846] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:02:08] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 14:02:16,354] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 14:02:16,483] INFO in _internal:  * Restarting with stat
+[2024-03-13 14:02:17,331] WARNING in _internal:  * Debugger is active!
+[2024-03-13 14:02:17,338] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 14:02:18,028] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:02:18] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:02:42,925] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:02:42] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:02:48,900] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:02:48] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:03:01,324] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:03:01] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:03:09,648] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 14:03:09,774] INFO in _internal:  * Restarting with stat
+[2024-03-13 14:03:10,649] WARNING in _internal:  * Debugger is active!
+[2024-03-13 14:03:10,658] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 14:03:10,689] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:03:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-13 14:15:16,161] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:15:16] "GET / HTTP/1.1" 200 -
+[2024-03-13 14:15:16,238] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:15:16] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-03-13 14:15:16,246] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:15:16] "GET /static/background.jpg HTTP/1.1" 200 -
+[2024-03-13 14:15:16,896] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:15:16] "GET / HTTP/1.1" 200 -
+[2024-03-13 14:15:16,919] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:15:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 14:15:16,928] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:15:16] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 14:15:34,768] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:15:34] "GET / HTTP/1.1" 200 -
+[2024-03-13 14:15:34,803] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:15:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 14:15:34,814] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:15:34] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 14:16:04,605] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:16:04] "GET / HTTP/1.1" 200 -
+[2024-03-13 14:16:04,629] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:16:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 14:16:04,639] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:16:04] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 14:16:06,419] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:16:06] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:17:18,195] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:17:18] "GET / HTTP/1.1" 200 -
+[2024-03-13 14:17:18,233] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:17:18] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-03-13 14:17:18,246] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:17:18] "GET /static/background.jpg HTTP/1.1" 200 -
+[2024-03-13 14:17:18,257] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:17:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-13 14:17:35,046] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:17:35] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:52:34,938] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:52:34] "GET / HTTP/1.1" 200 -
+[2024-03-13 14:52:38,171] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:52:38] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:52:55,355] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:52:55] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:53:09,096] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:53:09] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:53:33,120] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:53:33] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:54:17,959] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 14:54:18,119] INFO in _internal:  * Restarting with stat
+[2024-03-13 14:54:19,074] WARNING in _internal:  * Debugger is active!
+[2024-03-13 14:54:19,083] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 14:54:19,654] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:54:19] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:54:22,348] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:54:22] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:54:25,835] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:54:25] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:54:33,472] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 14:54:33,598] INFO in _internal:  * Restarting with stat
+[2024-03-13 14:54:34,464] WARNING in _internal:  * Debugger is active!
+[2024-03-13 14:54:34,473] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 14:54:50,774] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:54:50] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:56:32,808] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:56:32] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:56:58,915] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 14:56:59,070] INFO in _internal:  * Restarting with stat
+[2024-03-13 14:56:59,921] WARNING in _internal:  * Debugger is active!
+[2024-03-13 14:56:59,929] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 14:57:05,097] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 14:57:05,212] INFO in _internal:  * Restarting with stat
+[2024-03-13 14:57:06,098] WARNING in _internal:  * Debugger is active!
+[2024-03-13 14:57:06,106] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 14:58:45,367] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:58:45] "POST /search HTTP/1.1" 200 -
+[2024-03-13 14:58:57,917] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 14:58:57] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:00:54,687] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:00:54] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:06:43,812] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:06:43] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:06:43,900] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:06:43] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:06:43,904] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:06:43] "GET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-03-13 15:06:43,913] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:06:43] "GET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-03-13 15:07:01,667] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:07:01] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:07:10,017] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:07:10] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:09:08,696] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:09:08] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:09:11,596] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:09:11] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:09:40,971] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:09:41,113] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:09:42,004] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:09:42,014] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:12:10,487] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:12:10,640] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:12:11,497] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:12:11,505] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:12:21,691] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:12:21] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:13:09,900] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:13:09] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:13:54,793] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:13:54] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:14:18,640] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:14:18] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:14:24,234] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:14:24] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:14:34,006] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:14:34] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:15:14,547] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:15:14] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:15:27,840] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:15:27] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:15:53,058] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:15:53] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:16:09,415] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:16:09] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:16:19,545] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:16:19] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:16:19,648] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:16:19] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:16:19,657] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:16:19] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:16:19,667] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:16:19] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:16:23,117] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:16:23] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:16:23,152] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:16:23] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:16:23,153] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:16:23] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:16:23,167] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:16:23] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:16:31,699] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:16:31] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:16:31,727] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:16:31] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:16:31,727] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:16:31] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:16:31,805] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:16:31] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:17:43,313] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:17:43,442] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:17:44,283] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:17:44,291] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:17:51,505] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:17:51,651] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:17:52,481] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:17:52,489] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:17:58,481] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:17:58] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:17:58,588] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:17:58] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:17:58,590] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:17:58] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:17:58,605] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:17:58] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:18:01,078] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:18:01] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:18:01,101] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:18:01] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:18:01,103] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:18:01] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:18:01,116] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:18:01] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:18:14,849] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:18:14] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:18:35,556] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:18:35,688] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:18:36,757] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:18:36,765] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:18:37,022] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:18:37] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:18:45,981] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:18:45] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:19:21,984] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:19:21] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:19:39,292] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:19:39,437] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:19:40,314] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:19:40,324] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:19:40,583] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:19:40] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:19:40,674] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:19:40] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:19:40,679] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:19:40] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:19:40,693] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:19:40] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:19:47,536] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:19:47] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:19:57,801] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:19:57,940] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:19:58,838] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:19:58,848] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:19:59,358] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:19:59] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:20:05,062] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:20:05,189] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:20:05,994] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:20:06,002] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:20:32,275] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:20:32] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:20:35,752] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:20:35,878] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:20:49,884] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.50.4:8000
+[2024-03-13 15:20:49,885] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 15:20:49,886] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:20:50,669] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:20:50,679] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:20:52,670] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:20:52] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:20:52,755] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:20:52] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:20:52,764] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:20:52] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:20:52,774] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:20:52] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:22:32,140] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:22:32,280] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:22:33,114] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:22:33,124] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:22:37,213] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:22:37] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:22:37,321] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:22:37] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:22:37,322] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:22:37] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:22:37,337] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:22:37] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:22:44,362] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:22:44] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:23:07,999] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:23:08,106] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:23:08,879] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:23:08,890] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:23:23,410] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:23:23] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:23:29,712] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:23:29] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:23:29,801] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:23:29] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:23:29,802] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:23:29] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:23:29,816] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:23:29] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:23:39,860] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:23:39] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:23:39,890] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:23:39] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:23:39,892] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:23:39] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:23:39,905] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:23:39] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:24:18,558] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:24:18,693] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:24:19,616] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:24:19,627] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:24:25,959] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:24:25] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:24:36,452] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:24:36] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:24:54,430] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:24:54] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:26:18,517] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:26:18,654] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:26:19,642] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:26:19,652] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:26:22,835] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:26:22] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:26:26,829] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:26:26] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:26:31,202] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:26:31] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:26:34,602] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:26:34] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:26:34,704] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:26:34] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:26:34,707] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:26:34] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:26:34,716] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:26:34] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:27:23,178] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:27:23,335] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:27:24,179] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:27:24,187] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:27:31,399] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:27:31,510] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:27:32,298] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:27:32,308] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:27:38,280] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:27:38] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:27:43,031] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:27:43] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:28:25,603] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:28:25,717] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:28:26,530] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:28:26,539] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:28:47,386] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:28:47] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:28:52,422] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:28:52] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:30:25,364] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:30:25,503] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:30:26,313] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:30:26,320] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:32:25,149] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:32:25,266] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:32:26,083] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:32:26,094] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:32:29,221] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:32:29,364] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:32:30,312] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:32:30,323] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:32:34,717] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:32:34] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:32:39,635] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:32:39] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:32:44,828] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:32:44] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:32:44,942] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:32:44] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:32:44,945] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:32:44] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:32:44,966] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:32:44] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:33:41,039] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:33:41,165] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:34:13,622] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.50.4:8000
+[2024-03-13 15:34:13,623] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 15:34:13,625] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:34:14,514] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:34:14,523] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:34:16,070] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:34:16] "GET / HTTP/1.1" 200 -
+[2024-03-13 15:34:16,145] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:34:16] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-03-13 15:34:16,154] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:34:16] "GET /static/background.jpg HTTP/1.1" 200 -
+[2024-03-13 15:34:17,996] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:34:17] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:34:18,030] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:34:18] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:34:18,031] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:34:18] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:34:18,043] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:34:18] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:34:22,196] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:34:22] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:34:40,189] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:34:40,335] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:34:41,329] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:34:41,341] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:34:51,086] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:34:51] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:34:54,581] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:34:54] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:35:21,190] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:35:21] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:35:26,753] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:35:26] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:36:32,009] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:36:32,128] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:36:32,909] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:36:32,918] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:39:10,619] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:39:10,778] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:39:11,608] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:39:11,617] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:39:38,275] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:39:38,409] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:39:39,214] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:39:39,224] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:40:02,833] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:40:02,951] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:40:03,781] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:40:03,794] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:40:24,317] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:40:24,439] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:40:25,241] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:40:25,250] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:40:34,512] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:40:34,629] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:40:35,503] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:40:35,513] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:40:41,713] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:40:41,874] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:40:43,003] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:40:43,016] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:40:43,295] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:40:43] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:40:48,801] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:40:48] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 15:40:48,903] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:40:48] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:40:48,905] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:40:48] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:40:48,913] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:40:48] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 15:41:03,544] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:41:03,680] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:41:04,529] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:41:04,537] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:41:14,505] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:41:14] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:41:22,497] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:41:22] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:41:28,537] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:41:28] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:42:14,849] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:42:14] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:42:50,543] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:42:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-03-13 15:42:50,631] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:42:50] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-03-13 15:42:50,638] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:42:50] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 15:42:50,647] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:42:50] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-03-13 15:42:59,553] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:42:59] "GET / HTTP/1.1" 200 -
+[2024-03-13 15:42:59,582] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:42:59] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-03-13 15:42:59,592] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:42:59] "GET /static/background.jpg HTTP/1.1" 200 -
+[2024-03-13 15:43:01,269] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:43:01] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:43:17,732] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:43:17] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:44:13,838] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:44:13] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:44:19,214] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:44:19] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:44:28,232] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:44:28] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:48:25,005] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:48:25,158] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:48:25,979] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:48:25,988] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:49:20,295] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:49:20,418] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:49:21,184] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:49:21,194] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:49:39,662] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:49:39,802] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:49:40,714] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:49:40,724] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:49:43,876] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:49:43] "GET / HTTP/1.1" 200 -
+[2024-03-13 15:49:43,945] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:49:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 15:49:43,953] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:49:43] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 15:49:47,407] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:49:47] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:49:49,765] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:49:49] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:50:39,141] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:50:39,262] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:50:40,166] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:50:40,175] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 15:50:48,055] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 15:50:48] "POST /search HTTP/1.1" 200 -
+[2024-03-13 15:51:05,828] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 15:51:05,977] INFO in _internal:  * Restarting with stat
+[2024-03-13 15:51:06,874] WARNING in _internal:  * Debugger is active!
+[2024-03-13 15:51:06,884] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 16:13:25,122] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 16:13:25,270] INFO in _internal:  * Restarting with stat
+[2024-03-13 16:13:26,320] WARNING in _internal:  * Debugger is active!
+[2024-03-13 16:13:26,332] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 16:13:29,159] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:13:29] "GET / HTTP/1.1" 200 -
+[2024-03-13 16:13:29,238] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:13:29] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-03-13 16:13:29,249] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:13:29] "GET /static/background.jpg HTTP/1.1" 200 -
+[2024-03-13 16:13:35,507] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:13:35] "POST /search HTTP/1.1" 200 -
+[2024-03-13 16:13:49,382] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:13:49] "POST /search HTTP/1.1" 200 -
+[2024-03-13 16:13:59,181] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 16:13:59,377] INFO in _internal:  * Restarting with stat
+[2024-03-13 16:14:00,535] WARNING in _internal:  * Debugger is active!
+[2024-03-13 16:14:00,547] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 16:14:01,191] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:14:01] "POST /search HTTP/1.1" 200 -
+[2024-03-13 16:14:04,241] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:14:04] "POST /search HTTP/1.1" 200 -
+[2024-03-13 16:14:19,043] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 16:14:19,268] INFO in _internal:  * Restarting with stat
+[2024-03-13 16:14:20,346] WARNING in _internal:  * Debugger is active!
+[2024-03-13 16:14:20,356] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 16:14:23,992] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:14:23] "POST /search HTTP/1.1" 200 -
+[2024-03-13 16:14:52,161] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 16:14:52,317] INFO in _internal:  * Restarting with stat
+[2024-03-13 16:14:53,411] WARNING in _internal:  * Debugger is active!
+[2024-03-13 16:14:53,420] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 16:14:57,481] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:14:57] "POST /search HTTP/1.1" 200 -
+[2024-03-13 16:15:11,192] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:15:11] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 16:15:11,329] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:15:11] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 16:15:11,330] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:15:11] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 16:15:11,341] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:15:11] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 16:16:08,435] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 16:16:08,621] INFO in _internal:  * Restarting with stat
+[2024-03-13 16:16:09,602] WARNING in _internal:  * Debugger is active!
+[2024-03-13 16:16:09,611] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 16:16:35,821] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:16:35] "POST /search HTTP/1.1" 200 -
+[2024-03-13 16:16:56,901] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:16:56] "POST /search HTTP/1.1" 200 -
+[2024-03-13 16:17:10,242] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:17:10] "POST /search HTTP/1.1" 200 -
+[2024-03-13 16:17:21,225] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:17:21] "POST /search HTTP/1.1" 200 -
+[2024-03-13 16:20:37,434] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:20:37] "GET / HTTP/1.1" 200 -
+[2024-03-13 16:20:37,510] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:20:37] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-03-13 16:20:37,520] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:20:37] "GET /static/background.jpg HTTP/1.1" 200 -
+[2024-03-13 16:20:56,512] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:20:56] "POST /search HTTP/1.1" 200 -
+[2024-03-13 16:23:26,522] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:23:26] "[33mGET /list_types HTTP/1.1[0m" 404 -
+[2024-03-13 16:29:35,753] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:29:35] "GET / HTTP/1.1" 200 -
+[2024-03-13 16:29:35,782] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:29:35] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-03-13 16:29:35,794] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:29:35] "GET /static/background.jpg HTTP/1.1" 200 -
+[2024-03-13 16:30:47,675] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:30:47] "POST /search HTTP/1.1" 200 -
+[2024-03-13 16:31:02,600] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:31:02] "POST /search HTTP/1.1" 200 -
+[2024-03-13 16:31:33,961] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 16:31:33] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:02:36,253] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:02:36] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:02:39,745] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:02:39] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:04:11,159] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:04:11,307] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:04:12,109] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:04:12,118] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:05:57,583] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:05:57,729] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:06:27,158] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.50.4:8000
+[2024-03-13 17:06:27,158] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 17:06:27,160] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:06:27,992] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:06:28,000] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:06:30,538] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:06:30] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:06:30,614] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:06:30] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-03-13 17:06:30,621] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:06:30] "GET /static/background.jpg HTTP/1.1" 200 -
+[2024-03-13 17:07:30,558] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:07:30,676] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:07:31,514] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:07:31,522] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:07:35,666] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:07:35,790] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:07:36,731] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:07:36,740] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:07:37,822] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:07:37] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:07:37,888] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:07:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:07:37,896] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:07:37] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:07:39,391] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:07:39] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:07:44,862] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:07:44] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:08:03,525] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:08:03,701] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:08:36,279] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.50.4:8000
+[2024-03-13 17:08:36,280] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 17:08:36,282] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:08:37,230] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:08:37,238] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:08:37,272] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:08:37] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:08:37,332] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:08:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:08:37,343] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:08:37] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:08:44,739] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:08:44] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:09:38,717] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:09:38,868] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:11:30,198] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.50.4:8000
+[2024-03-13 17:11:30,199] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 17:11:30,201] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:11:31,025] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:11:31,035] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:11:33,734] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:11:33] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:11:33,838] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:11:33] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:11:33,840] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:11:33] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:11:33,851] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:11:33] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:11:39,905] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:11:39] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:14:14,907] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:14:15,049] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:14:47,098] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.50.4:8000
+[2024-03-13 17:14:47,099] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 17:14:47,100] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:14:48,025] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:14:48,033] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:14:53,719] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:14:53] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:14:56,642] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:14:56] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:14:56,739] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:14:56] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:14:56,740] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:14:56] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:14:56,751] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:14:56] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:15:35,322] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:15:35,484] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:15:36,464] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:15:36,473] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:15:38,974] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:15:38] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:15:44,562] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:15:44] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:17:37,341] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:17:37,457] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:17:38,256] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:17:38,265] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:17:41,887] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:17:41] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:17:47,024] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:17:47] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:20:19,338] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:20:19,475] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:20:20,439] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:20:20,447] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:20:20,987] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:20:20] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:20:21,090] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:20:21] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:20:21,098] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:20:21] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:20:21,109] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:20:21] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:20:29,708] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:20:29,837] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:20:30,693] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:20:30,700] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:20:31,224] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:20:31] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:20:31,285] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:20:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:20:31,293] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:20:31] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:20:32,612] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:20:32] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:20:40,569] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:20:40] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:20:45,043] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:20:45] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:21:49,599] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:21:49,778] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:21:50,709] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:21:50,718] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:21:58,503] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:21:58] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:22:00,984] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:22:00] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:24:28,256] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:24:28,372] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:25:06,441] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.50.4:8000
+[2024-03-13 17:25:06,442] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 17:25:06,445] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:25:07,283] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:25:07,293] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:25:10,336] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:25:10] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:25:10,439] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:25:10] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:25:10,440] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:25:10] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:25:10,450] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:25:10] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:25:16,638] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:25:16] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:25:23,740] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:25:23] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:25:23,778] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:25:23] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:25:23,779] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:25:23] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:25:23,792] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:25:23] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:25:48,309] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:25:48,454] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:25:49,342] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:25:49,349] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:25:50,940] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:25:50] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:26:54,096] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:26:54] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:27:05,544] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:27:05] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:27:13,000] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:27:13] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:28:28,086] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:28:28,240] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:29:07,029] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.50.4:8000
+[2024-03-13 17:29:07,029] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 17:29:07,032] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:29:07,933] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:29:07,941] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:29:09,538] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:29:09] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:29:09,631] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:29:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:29:09,640] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:29:09] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:29:13,010] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:29:13] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:29:26,434] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:29:26,590] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:29:27,491] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:29:27,499] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:29:28,971] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:29:28] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:29:29,030] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:29:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:29:29,038] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:29:29] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:29:31,281] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:29:31] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:29:53,147] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:29:53,261] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:29:54,018] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:29:54,027] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:30:04,293] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:30:04] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:30:43,223] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:30:43,351] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:30:44,079] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:30:44,086] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:36:30,241] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:36:30,390] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:36:31,283] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:36:31,291] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:36:39,532] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:36:39,673] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:36:40,560] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:36:40,571] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:36:42,811] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:36:42] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:36:42,909] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:36:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:36:42,917] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:36:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:36:42,927] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:36:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:36:46,655] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:36:46] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:36:46,685] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:36:46] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:36:46,685] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:36:46] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:36:46,697] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:36:46] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:36:52,431] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:36:52] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:37:15,438] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:37:15,583] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:37:16,607] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:37:16,621] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:37:18,076] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:37:18] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:37:18,145] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:37:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:37:18,152] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:37:18] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:37:19,753] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:37:19] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:37:19,776] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:37:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:37:19,783] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:37:19] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:37:40,607] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:37:40] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:37:40,627] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:37:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:37:40,637] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:37:40] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:37:56,259] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:37:56] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:37:56,292] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:37:56] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:37:56,295] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:37:56] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:37:56,308] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:37:56] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:38:10,587] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:38:10] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:38:25,994] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:38:25] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:38:26,018] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:38:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:38:26,030] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:38:26] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:38:43,746] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:38:43,928] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:38:44,880] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:38:44,887] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:38:47,877] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:38:47] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:39:25,989] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:39:25] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:41:21,694] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:41:21,811] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:41:22,760] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:41:22,769] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:41:35,125] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:41:35,284] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:41:36,193] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:41:36,203] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:42:21,312] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:42:21,430] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:42:22,255] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:42:22,263] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:42:27,255] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:42:27] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:42:27,326] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:42:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:42:27,337] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:42:27] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:42:39,819] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:42:39] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:42:39,845] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:42:39] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:42:39,847] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:42:39] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:42:39,865] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:42:39] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:42:44,578] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:42:44] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:42:44,608] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:42:44] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:42:44,610] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:42:44] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:42:44,628] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:42:44] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:42:51,291] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:42:51] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:43:10,445] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:43:10,563] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:43:11,526] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:43:11,539] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:43:25,229] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:43:25] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:43:25,297] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:43:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:43:25,307] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:43:25] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:44:04,972] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:04] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:44:04,988] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:44:04,988] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:04] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:44:21,578] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:21] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:44:21,612] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:44:21,625] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:21] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:44:35,981] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:35] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:44:36,005] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:44:36,015] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:36] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:44:37,107] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:37] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:44:37,143] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:37] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:44:37,143] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:37] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:44:37,154] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:37] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:44:58,003] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:58] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:44:58,046] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:58] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:44:58,048] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:58] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:44:58,067] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:44:58] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:45:14,073] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:45:14] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:45:14,101] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:45:14] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:45:14,102] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:45:14] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:45:14,117] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:45:14] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:45:15,800] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:45:15] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:45:15,819] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:45:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:45:15,830] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:45:15] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:45:16,774] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:45:16] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:45:21,303] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:45:21] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:46:41,560] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:46:41,684] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:46:42,551] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:46:42,566] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:46:56,997] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:46:56] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:47:04,183] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:47:04,308] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:47:05,119] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:47:05,135] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:47:22,895] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:47:22] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:47:22,961] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:47:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:47:22,977] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:47:22] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:47:24,816] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:47:24] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:47:24,832] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:47:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:47:24,853] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:47:24] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:47:32,901] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:47:33,022] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:47:33,836] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:47:33,846] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:47:51,294] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:47:51] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:47:51,355] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:47:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:47:51,357] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:47:51] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:47:56,683] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:47:56] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:47:56,715] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:47:56] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:47:56,715] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:47:56] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:47:56,730] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:47:56] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:48:13,831] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:48:14,031] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:48:14,904] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:48:14,904] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:48:16,738] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:16] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:48:16,801] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:48:16,808] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:16] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:48:25,198] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:48:25,372] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:48:26,466] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:48:26,477] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:48:26,586] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:26] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:48:26,703] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:26] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:48:26,708] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:26] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:48:26,718] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:26] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:48:28,816] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:28] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:48:28,836] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:48:28,844] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:28] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:48:30,645] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:30] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 17:48:30,669] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:30] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:48:30,670] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:30] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 17:48:30,687] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:30] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 17:48:39,863] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:48:40,041] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:48:40,834] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:48:40,843] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:48:41,239] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:48:41] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:50:15,065] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:50:15,195] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:50:16,083] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:50:16,092] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:50:29,461] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:50:29,594] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:50:30,432] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:50:30,440] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:50:44,825] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 17:50:44,934] INFO in _internal:  * Restarting with stat
+[2024-03-13 17:50:45,867] WARNING in _internal:  * Debugger is active!
+[2024-03-13 17:50:45,878] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 17:50:47,104] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:50:47] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:50:50,540] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:50:50] "GET / HTTP/1.1" 200 -
+[2024-03-13 17:50:50,605] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:50:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 17:50:50,613] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:50:50] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 17:50:52,956] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:50:52] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:51:05,549] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:51:05] "POST /search HTTP/1.1" 200 -
+[2024-03-13 17:51:11,292] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 17:51:11] "POST /search HTTP/1.1" 200 -
+[2024-03-13 20:38:01,709] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 20:38:01] "GET / HTTP/1.1" 200 -
+[2024-03-13 20:38:01,764] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 20:38:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 20:38:01,793] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 20:38:01] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 20:38:05,285] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 20:38:05] "POST /search HTTP/1.1" 200 -
+[2024-03-13 20:48:01,297] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 20:48:01] "GET / HTTP/1.1" 200 -
+[2024-03-13 20:48:01,333] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 20:48:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 20:48:01,345] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 20:48:01] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 20:48:46,967] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 20:48:46] "POST /search HTTP/1.1" 200 -
+[2024-03-13 20:48:56,735] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 20:48:56] "POST /search HTTP/1.1" 200 -
+[2024-03-13 20:57:45,201] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 20:57:45,353] INFO in _internal:  * Restarting with stat
+[2024-03-13 20:57:49,313] WARNING in _internal:  * Debugger is active!
+[2024-03-13 20:57:49,322] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 20:59:34,537] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 20:59:34] "GET / HTTP/1.1" 200 -
+[2024-03-13 20:59:34,607] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 20:59:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 20:59:34,616] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 20:59:34] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:00:32,174] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:00:32,307] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:00:33,183] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:00:33,194] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:01:22,392] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:01:22,535] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:01:23,502] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:01:23,511] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:01:24,716] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:01:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-03-13 21:01:24,815] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:01:24] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-03-13 21:01:24,824] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:01:24] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 21:01:24,838] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:01:24] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-03-13 21:01:37,896] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:01:38,013] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:01:38,889] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:01:38,899] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:01:44,077] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:01:44,231] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:01:45,059] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:01:45,068] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:02:42,478] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:02:42,596] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:02:43,492] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:02:43,501] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:03:14,975] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.50.4:8000
+[2024-03-13 21:03:14,976] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 21:03:14,978] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:03:15,836] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:03:15,847] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:03:17,559] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 21:03:17] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:03:17,623] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 21:03:17] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-03-13 21:03:17,634] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 21:03:17] "GET /static/background.jpg HTTP/1.1" 200 -
+[2024-03-13 21:03:27,216] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 21:03:27] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:03:36,900] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 21:03:36] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:06:00,868] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:06:01,061] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:06:01,444] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:06:01,579] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:06:01,893] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:06:01,902] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:06:02,408] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:06:02,418] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:06:24,396] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:06:24] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:06:24,460] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:06:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:06:24,468] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:06:24] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:06:27,616] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:06:27] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:06:27,633] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:06:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:06:27,640] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:06:27] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:06:29,056] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:06:29] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:06:33,670] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:06:33] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:06:37,013] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:06:37] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:06:56,728] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:06:56,860] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:06:57,238] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:06:57,373] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:06:57,747] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:06:57,758] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:06:58,287] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:06:58,300] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:06:59,643] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:06:59] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:06:59,696] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:06:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:06:59,704] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:06:59] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:08:16,642] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:08:16,775] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:08:17,164] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:08:17,300] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:08:17,755] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:08:17,766] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:08:18,202] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:08:18,212] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:08:20,669] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:08:20] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:08:20,737] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:08:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:08:20,745] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:08:20] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:08:39,761] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:08:39,944] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:08:40,359] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:08:40,522] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:08:40,851] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:08:40,861] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:08:41,288] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:08:41,296] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:08:46,603] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:08:46] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:08:46,666] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:08:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:08:46,675] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:08:46] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:08:48,982] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:08:48] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:08:55,477] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:08:55] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:08:55,504] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:08:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:08:55,511] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:08:55] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:09:00,082] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:09:00] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:09:00,102] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:09:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:09:00,110] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:09:00] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:09:12,085] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:09:12,221] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:09:12,648] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:09:12,794] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:09:13,127] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:09:13,138] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:09:13,578] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:09:13,587] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:09:29,473] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:09:29] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:09:32,178] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:09:32] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:10:18,774] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:10:18] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:10:23,198] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:10:23] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:10:23,263] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:10:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:10:23,270] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:10:23] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:10:42,544] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:10:42] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:10:42,569] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:10:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:10:42,578] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:10:42] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:11:58,328] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:11:58] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:11:58,348] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:11:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:11:58,356] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:11:58] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:12:12,356] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:12:12,497] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:12:12,871] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:12:13,011] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:12:13,544] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:12:13,554] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:12:13,894] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:12:13,903] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:12:16,219] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:12:16] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:12:16,291] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:12:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:12:16,300] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:12:16] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:12:20,166] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:12:20] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:12:20,196] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:12:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:12:20,204] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:12:20] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:12:34,073] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:12:34,215] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:12:34,426] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:12:34,559] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:12:35,046] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:12:35,056] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:12:35,363] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:12:35,373] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:12:42,451] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:12:42] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:12:51,483] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:12:51,618] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:12:51,819] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:12:51,951] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:12:52,442] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:12:52,452] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:12:52,718] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:12:52,729] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:13:05,409] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:13:05] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:13:08,801] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:13:08] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:13:08,865] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:13:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:13:08,872] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:13:08] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:13:19,486] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:13:19] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:13:26,130] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:13:26] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:13:28,069] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:13:28] "[33mGET /method=?pokemon_name= HTTP/1.1[0m" 404 -
+[2024-03-13 21:16:55,180] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:16:55,308] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:16:55,409] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:16:55,575] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:16:56,200] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:16:56,209] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:16:56,422] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:16:56,433] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:17:55,579] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:17:55] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:17:55,643] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:17:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:17:55,650] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:17:55] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:17:57,591] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:17:57] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:17:57,984] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:17:57] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:17:58,149] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:17:58] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:17:59,230] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:17:59] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:17:59,989] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:17:59] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:18:01,453] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:18:01] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:18:02,001] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:18:02] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:18:02,330] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:18:02] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:18:02,891] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:18:02] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:18:03,902] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:18:03] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:18:03,925] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:18:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:18:03,933] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:18:03] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:18:05,992] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:18:05] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:18:31,727] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:18:31,857] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:18:32,493] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:18:32,642] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:18:32,782] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:18:32,791] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:18:33,464] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:18:33,473] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:18:38,978] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:18:39,095] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:18:39,665] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:18:39,789] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:18:39,914] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:18:39,925] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:18:40,600] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:18:40,610] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:18:41,689] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:18:41,821] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:18:42,022] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:18:42,168] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:18:42,854] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:18:42,863] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:18:43,210] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:18:43,220] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:19:30,964] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:19:30] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:19:31,032] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:19:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:19:31,042] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:19:31] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:19:41,331] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:19:41] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:21:12,382] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:21:12,501] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:21:12,720] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:21:12,879] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:21:13,588] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:21:13,602] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:21:13,985] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:21:13,995] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:21:24,938] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:21:25,051] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:21:25,319] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:21:25,450] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:21:25,933] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:21:25,943] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:21:26,296] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:21:26,307] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:21:28,859] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:21:28] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 21:21:28,963] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:21:28] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:21:28,966] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:21:28] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 21:21:28,991] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:21:28] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 21:21:52,037] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:21:52,161] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:21:52,633] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:21:52,801] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:21:53,077] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:21:53,087] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:21:53,656] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:21:53,664] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:21:58,963] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:21:58] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:22:46,688] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:22:46] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:23:56,559] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:23:56,703] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:23:56,978] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:23:57,136] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:23:57,676] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:23:57,687] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:23:58,045] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:23:58,055] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:23:58,395] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:23:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-03-13 21:23:58,482] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:23:58] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-03-13 21:23:58,488] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:23:58] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 21:23:58,498] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:23:58] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 21:24:03,887] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:24:04,001] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:24:04,254] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:24:04,391] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:24:04,872] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:24:04,883] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:24:05,229] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:24:05,241] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:24:07,342] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:24:07,471] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:24:08,002] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:24:08,138] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:24:08,370] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:24:08,381] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:24:09,021] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:24:09,033] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:24:09,532] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:24:09] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:24:09,594] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:24:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:24:09,601] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:24:09] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:24:15,867] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:24:15] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 21:24:15,895] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:24:15] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:24:15,895] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:24:15] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 21:24:15,915] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:24:15] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 21:24:19,378] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:24:19,503] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:24:19,711] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:24:19,872] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:24:20,401] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:24:20,411] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:24:20,698] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:24:20,707] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:24:53,528] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:24:53,648] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:24:54,276] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:24:54,401] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:24:54,548] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:24:54,557] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:24:55,261] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:24:55,272] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:25:29,442] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:25:29,603] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:25:30,126] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:25:30,270] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:25:30,523] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:25:30,533] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:25:31,068] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:25:31,076] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:25:34,480] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:25:34] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 21:25:34,575] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:25:34] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:25:34,576] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:25:34] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 21:25:34,592] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:25:34] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 21:25:40,253] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:25:40] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 21:25:40,282] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:25:40] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:25:40,283] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:25:40] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 21:25:40,301] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:25:40] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 21:26:31,184] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:26:31,311] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:26:31,554] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:26:31,700] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:26:32,238] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:26:32,250] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:26:32,603] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:26:32,612] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:26:33,361] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:26:33] "GET / HTTP/1.1" 200 -
+[2024-03-13 21:26:33,430] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:26:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:26:33,438] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:26:33] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+[2024-03-13 21:26:34,754] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:26:34] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:26:48,050] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:26:48] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:27:31,029] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:27:31,169] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:27:31,722] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:27:31,858] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:27:31,994] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:27:32,004] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:27:32,634] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:27:32,642] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:28:14,021] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:28:14,153] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:28:14,657] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:28:14,833] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:28:15,105] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:28:15,113] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:28:15,606] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:28:15,615] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:28:16,842] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:28:16] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 21:28:16,920] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:28:16] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:28:16,927] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:28:16] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 21:28:16,938] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:28:16] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 21:28:24,884] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:28:24] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+[2024-03-13 21:28:24,917] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:28:24] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-13 21:28:24,918] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:28:24] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-13 21:28:24,929] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:28:24] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-13 21:28:30,066] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:28:30] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:28:36,678] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:28:36] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:28:45,826] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:28:45] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:28:50,310] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:28:50] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:28:56,099] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:28:56,225] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:28:56,606] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:28:56,745] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:28:57,086] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:28:57,096] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:28:57,524] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:28:57,534] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:29:03,727] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:29:03,865] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:29:04,311] INFO in _internal:  * Detected change in 'D:\\Sys-Eng\\02. SYSTEM ENGINEER\\flask-template-venv-master\\run.py', reloading
+[2024-03-13 21:29:04,449] INFO in _internal:  * Restarting with stat
+[2024-03-13 21:29:04,746] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:29:04,758] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:29:05,310] WARNING in _internal:  * Debugger is active!
+[2024-03-13 21:29:05,321] INFO in _internal:  * Debugger PIN: 104-235-210
+[2024-03-13 21:29:10,960] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:29:10] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:29:16,511] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:29:16] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:29:21,045] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:29:21] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:29:24,853] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:29:24] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:31:39,548] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:31:39] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:31:52,956] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:31:52] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:32:07,828] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:32:07] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:32:46,651] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:32:46] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:32:55,157] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:32:55] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:33:03,971] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:33:03] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:33:42,337] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:33:42] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:34:08,886] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:34:08] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:34:17,954] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:34:17] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:35:35,045] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:35:35] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:36:22,929] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:36:22] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:36:31,286] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:36:31] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:36:43,900] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:36:43] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:36:58,238] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:36:58] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:37:13,154] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:37:13] "POST /search HTTP/1.1" 200 -
+[2024-03-13 21:37:30,035] INFO in _internal: 192.168.50.4 - - [13/Mar/2024 21:37:30] "POST /search HTTP/1.1" 200 -
