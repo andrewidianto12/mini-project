@@ -6,9 +6,27 @@
 
 ## How It Works
 
+
+
 <!-- The Caesar cipher works by shifting each letter in the plaintext by a fixed number of positions down or up the alphabet. For example, with a shift of 3, 'A' becomes 'D,' 'B' becomes 'E,' and so on. The same shift value is used for both encryption and decryption. -->
 
 ### Features
+you can search pokemon by name and by type :
+- Features "Pokedex"
+  - search by pokemon name :
+    - id pokemon
+    - type pokemon
+    - height pokemon
+    - weight pokemon
+    - Abilities pokemon
+      
+- search by type Pokemon
+  - type information Pokemon (by search)
+    - Double Damage to pokemon type 
+    - Half Damage to pokemon type
+    - no demage to pokemon type
+    - List pokemon with "type"
+  
 
 <!-- - **Encryption**: You can input a message and a shift value to encrypt it. The encrypted message will be displayed. -->
 <!-- - **Decryption**: If you have an encrypted message and know the shift value, you can decrypt it to reveal the original plaintext. -->
