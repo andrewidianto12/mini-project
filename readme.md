@@ -5,6 +5,14 @@
 <!-- This Python project implements a basic Caesar cipher algorithm, allowing you to encrypt and decrypt messages using a simple shift-based substitution method. The Caesar cipher is one of the oldest and simplest encryption techniques, dating back to ancient Rome. -->
 
 ## How It Works
+- cara mencari detail pokemon
+  -> ketik nama pokemon
+  -> pilih dropdown "pokemon"
+  -> lalu search
+- cara mencaril detail tipe pokemon
+  -> ketik tipe pokemon
+  -> pilih dropdown "type"
+  -> lalu klick search  
 
 
 
@@ -34,8 +42,11 @@ you can search pokemon by name and by type :
 
 ## Getting Started
 
-<!-- 1. Clone this repository to your local machine. -->
-<!-- 2. Run the `caesar_cipher.py` script. -->
+1. Clone this repository to your local machine.
+2. install virtual environtment
+3. install requirements.txt
+4. lalu jalankan run.py
+<!-- 5. Run the `caesar_cipher.py` script. -->
 <!-- 3. Follow the prompts to either encrypt or decrypt a message. -->
 
 <!-- ```bash -->
