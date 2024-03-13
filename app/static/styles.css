@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("background.jpg"); /* Lokasi gambar di folder static */
+  background-size: cover; /* Mengatur gambar agar selalu menutupi seluruh latar belakang */
+  background-position: center; /* Mengatur posisi gambar di tengah */
+  color: #fff; /* Warna teks yang kontras dengan gambar latar belakang */
+}
+
+h1 {
+  color: #fff; /* Warna teks judul yang kontras dengan gambar latar belakang */
+}
+
+p {
+  color: #fff; /* Warna teks paragraf yang kontras dengan gambar latar belakang */
+}

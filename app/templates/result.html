@@ -3,23 +3,40 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Pokemon Result</title>
+    <title>Pokemon {{ pokemon['name'] }} Result</title>
   </head>
   <body>
-    <h1>Pokemon Details</h1>
-    <h2>{{ pokemon['name'] }}</h2>
+    <h1> {{ pokemon['name'] }} Details</h1>
+    <!-- <h2>{{ pokemon['name'] }}</h2> -->
     <img
       src="{{ pokemon['sprites']['front_default'] }}"
       alt="{{ pokemon['name'] }}"
     />
     <!-- <p>Tipe: {{ pokemon['types'] }}</p> -->
+    <p>ID : {{ pokemon['id'] }}</p>
+    <p>
+     Tipe :
+      <ul>
+        {% for type_entry in pokemon['types'] %}
+          <li>{{ type_entry['type']['name'] }}</li>
+        {% endfor %}
+      </ul>
+      
+    </p>
     <p>Height: {{ pokemon['height'] }}</p>
     <p>Weight: {{ pokemon['weight'] }}</p>
+
     <p>Abilities:</p>
+
     <ul>
       {% for ability in pokemon['abilities'] %}
       <li>{{ ability['ability']['name'] }}</li>
       {% endfor %}
     </ul>
+
+    <form action=" method="post">
+      <input type="text" name="pokemon_name" placeholder="Review" />
+      </select>
+      <button>Submit Review</button>
   </body>
 </html>
