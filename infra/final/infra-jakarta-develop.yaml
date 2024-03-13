@@ -1,0 +1,63 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: pokeanary
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: pokeanary-svc
+  namespace: pokeanary
+spec:
+  ports:
+  - port: 80
+    targetPort: 80
+  selector:
+    app: pokeanary
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pokeanary
+  namespace: pokeanary
+spec:
+  selector:
+    matchLabels:
+      app: pokeanary
+  template:
+    metadata:
+      labels:
+        app: pokeanary
+    spec:
+      containers:
+      - image: andrewidianto12/coba-mini-project:latest
+        imagePullPolicy: Always
+        name: pokeanary
+        ports:
+        - containerPort: 80
+        resources:
+          limits:
+            cpu: 500m
+            memory: 500Mi
+          requests:
+            cpu: 1m
+            memory: 1Mi
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: pokeanary-ingress
+  namespace: pokeanary
+spec:
+  ingressClassName: nginx
+  rules:
+  - host: pokeanary.shamirhusein.my.id
+    http:
+      paths:
+      - backend:
+          service:
+            name: pokeanary-svc
+            port:
+              number: 80
+        path: /
+        pathType: Prefix

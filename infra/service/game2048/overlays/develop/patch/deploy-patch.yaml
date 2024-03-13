@@ -1,0 +1,11 @@
+- op: add
+  path: /spec/template/spec/containers/0/envFrom
+  value:
+    - configMapRef:
+        name: pokeanary-config
+    - secretRef:
+        name: pokeanary-secret
+# - op: add
+#   path: /spec/template/spec/nodeSelector
+#   value:
+#     Owner: RCSRebuild

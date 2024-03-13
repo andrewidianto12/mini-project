@@ -1,0 +1,51 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pokeanary
+spec:
+  selector:
+    matchLabels:
+      app: pokeanary
+  template:
+    metadata:
+      labels:
+        app: pokeanary
+    spec:
+      containers:
+      - name: pokeanary
+        image: andrewidianto12/coba-mini-project:latest
+        imagePullPolicy: Always
+        resources:
+          requests:
+            memory: "1Mi"
+            cpu: "1m"
+          limits:
+            memory: "500Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 80
+        # livenessProbe:
+        #   httpGet:
+        #     path: "/v1/ping"
+        #     port: 8080
+        #   initialDelaySeconds: 30
+        #   periodSeconds: 30
+        # readinessProbe:
+        #   httpGet:
+        #     path: "/v1/ping"
+        #     port: 8080
+        #   initialDelaySeconds: 30
+        #   periodSeconds: 30
+      # imagePullSecrets:
+      #   - name: melissa-hol-group
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: pokeanary-svc
+spec:
+  selector:
+    app: pokeanary
+  ports:
+  - port: 80
+    targetPort: 80
