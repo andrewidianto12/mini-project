@@ -23,7 +23,7 @@ spec:
             memory: "500Mi"
             cpu: "500m"
         ports:
-        - containerPort: 80
+        - containerPort: 5000
         # livenessProbe:
         #   httpGet:
         #     path: "/v1/ping"
@@ -48,4 +48,4 @@ spec:
     app: pokeanary
   ports:
   - port: 80
-    targetPort: 80
+    targetPort: 5000

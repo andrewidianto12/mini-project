@@ -11,7 +11,7 @@ metadata:
 spec:
   ports:
   - port: 80
-    targetPort: 80
+    targetPort: 5000
   selector:
     app: pokeanary
 ---
@@ -34,7 +34,7 @@ spec:
         imagePullPolicy: Always
         name: pokeanary
         ports:
-        - containerPort: 80
+        - containerPort: 5000
         resources:
           limits:
             cpu: 500m
@@ -58,6 +58,6 @@ spec:
           service:
             name: pokeanary-svc
             port:
-              number: 80
+              number: 5000
         path: /
         pathType: Prefix

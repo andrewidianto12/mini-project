@@ -13,5 +13,5 @@ spec:
           service:
             name: pokeanary-svc
             port: 
-              number: 80
+              number: 5000
   ingressClassName: nginx
