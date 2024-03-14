@@ -2,17 +2,11 @@
 
 ![Python Badge](https://img.shields.io/badge/Made%20with-Python-blue)
 
-<!-- This Python project implements a basic Caesar cipher algorithm, allowing you to encrypt and decrypt messages using a simple shift-based substitution method. The Caesar cipher is one of the oldest and simplest encryption techniques, dating back to ancient Rome. -->
+## Try
+https://pokeanary.shamirhusein.my.id/
 
-## How It Works
-- search pokemon detail
-    - type a pokemon name
-    - choose "pokemon" from dropdown list
-    - click "search"
-- find pokemmon type detail
-    - type a pokemon type
-    - choose "type" from dropdown list
-    - click "search"
+## Project Documentation
+[ITCamp BRI Batch 2 - System Engineer Mini Project_ Pokeanary.pdf](https://github.com/andrewidianto12/mini-project/blob/main/ITCamp%20BRI%20Batch%202%20-%20System%20Engineer%20Mini%20Project_%20Pokeanary.pdf)
 
 ### Features
 You can search pokemon by name and by type:
@@ -30,15 +24,15 @@ You can search pokemon by name and by type:
     - no demage to pokemon type
     - List pokemon with "type"
 
-## Getting Started
-
-1. Clone this repository to your local machine.
-2. install virtual environtment using requirements.txt
-3. Run the `run.py`
-
-<!-- ```bash -->
-<!-- python caesar_cipher.py -->
-<!-- ``` -->
+## How It Works
+- search pokemon detail
+    - type a pokemon name
+    - choose "pokemon" from dropdown list
+    - click "search"
+- find pokemmon type detail
+    - type a pokemon type
+    - choose "type" from dropdown list
+    - click "search"
 
 ## Requirements
 
@@ -72,13 +66,6 @@ You can search pokemon by name and by type:
 - typing_extensions==4.10.0
 - urllib3==2.2.1
 - Werkzeug==3.0.1
-
-<!-- # Example -->
-
-<!-- Here's an example of encrypting the message "HELLO, WORLD!" with a shift of 3: -->
-
-<!-- - Original Message: HELLO, WORLD! -->
-<!-- - Encrypted Message: KHOOR, ZRUOG! -->
 
 # Acknowledgments
 
