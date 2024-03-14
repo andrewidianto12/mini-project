@@ -6,13 +6,13 @@
 
 ## How It Works
 - search pokemon detail
-  -> type a pokemon name
-  -> choose "pokemon" from dropdown list
-  -> click "search"
+    - type a pokemon name
+    - choose "pokemon" from dropdown list
+    - click "search"
 - find pokemmon type detail
-  -> type a pokemon type
-  -> choose "type" from dropdown list
-  -> click "search"
+    - type a pokemon type
+    - choose "type" from dropdown list
+    - click "search"
 
 ### Features
 You can search pokemon by name and by type :
