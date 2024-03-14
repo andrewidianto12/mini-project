@@ -15,16 +15,16 @@
     - click "search"
 
 ### Features
-You can search pokemon by name and by type :
-- search by pokemon name :
-  - id pokemon
-  - type pokemon
-  - height pokemon
-  - weight pokemon
-  - abilities pokemon
+You can search pokemon by name and by type:
+- search pokemon details by name:
+  - pokemon id
+  - pokemon type
+  - pokemon height
+  - pokemon weight
+  - pokemon abilities
       
-- Pokemon by type
-  - type information Pokemon (by search)
+- Pokemon type
+  - type information:
     - Double Damage to pokemon type 
     - Half Damage to pokemon type
     - no demage to pokemon type
