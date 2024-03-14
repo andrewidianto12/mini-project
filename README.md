@@ -1,53 +1,40 @@
-# ITCamp BRI Batch 2: System Engineer Mini-Project
+# ITCamp BRI Batch 2 - System Engineer Mini-Project: Pokeanary
 
 ![Python Badge](https://img.shields.io/badge/Made%20with-Python-blue)
 
 <!-- This Python project implements a basic Caesar cipher algorithm, allowing you to encrypt and decrypt messages using a simple shift-based substitution method. The Caesar cipher is one of the oldest and simplest encryption techniques, dating back to ancient Rome. -->
 
 ## How It Works
-- cara mencari detail pokemon
-  -> ketik nama pokemon
-  -> pilih dropdown "pokemon"
-  -> lalu search
-- cara mencaril detail tipe pokemon
-  -> ketik tipe pokemon
-  -> pilih dropdown "type"
-  -> lalu klick search  
-
-
-
-<!-- The Caesar cipher works by shifting each letter in the plaintext by a fixed number of positions down or up the alphabet. For example, with a shift of 3, 'A' becomes 'D,' 'B' becomes 'E,' and so on. The same shift value is used for both encryption and decryption. -->
+- search pokemon detail
+  -> type a pokemon name
+  -> choose "pokemon" from dropdown list
+  -> click "search"
+- find pokemmon type detail
+  -> type a pokemon type
+  -> choose "type" from dropdown list
+  -> click "search"
 
 ### Features
-you can search pokemon by name and by type :
-- Features "Pokedex"
-  - search by pokemon name :
-    - id pokemon
-    - type pokemon
-    - height pokemon
-    - weight pokemon
-    - Abilities pokemon
+You can search pokemon by name and by type :
+- search by pokemon name :
+  - id pokemon
+  - type pokemon
+  - height pokemon
+  - weight pokemon
+  - abilities pokemon
       
-- search by type Pokemon
+- Pokemon by type
   - type information Pokemon (by search)
     - Double Damage to pokemon type 
     - Half Damage to pokemon type
     - no demage to pokemon type
     - List pokemon with "type"
-  
-
-<!-- - **Encryption**: You can input a message and a shift value to encrypt it. The encrypted message will be displayed. -->
-<!-- - **Decryption**: If you have an encrypted message and know the shift value, you can decrypt it to reveal the original plaintext. -->
-<!-- - **Customizable Shift**: Choose any integer as your shift value, allowing you to create different cipher variations. -->
 
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. install virtual environtment
-3. install requirements.txt
-4. lalu jalankan run.py
-<!-- 5. Run the `caesar_cipher.py` script. -->
-<!-- 3. Follow the prompts to either encrypt or decrypt a message. -->
+2. install virtual environtment using requirements.txt
+3. Run the `run.py`
 
 <!-- ```bash -->
 <!-- python caesar_cipher.py -->
@@ -86,7 +73,7 @@ you can search pokemon by name and by type :
 - urllib3==2.2.1
 - Werkzeug==3.0.1
 
-# Example
+<!-- # Example -->
 
 <!-- Here's an example of encrypting the message "HELLO, WORLD!" with a shift of 3: -->
 
@@ -95,5 +82,5 @@ you can search pokemon by name and by type :
 
 # Acknowledgments
 
-- Based on flask template by Mas Shamir Husein.
-- Created with ❤️ by Arya and Andre.
+- Based on flask template by [shamir92](https://github.com/shamir92/flask-template-venv).
+- Created with ❤️ by [Arya](https://github.com/aryap-putra) and [Andre](https://github.com/andrewidianto12).
