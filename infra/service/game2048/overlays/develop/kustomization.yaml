@@ -6,7 +6,7 @@ resources:
   # - "configmap.yaml"
   # - "sealed-secret.yaml"
 images:
-  - name: andrewidianto12/coba-mini-project:latest
+  - name: andrewidianto12/coba-mini-project
     newTag: latest
 # patchesJson6902:
 #   - target:
